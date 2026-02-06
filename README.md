@@ -8,3 +8,10 @@ when only two timepoints are available. Separately, the per-visit labels answer 
 and we choose ANOVA only when normality/variance assumptions look reasonable; otherwise we use the more robust Kruskal–Wallis test. This gives us a reviewer-
 friendly approach that is both flexible for nonlinear biology and conservative when the data are sparse.
 
+Requires the following variables in numericMeta:
+set.label (e.x. b01.127N, b01.127C, etc.)
+subject.id (unique per subject identifier)
+FirstVLast (contains First, Last, or NA) OR visit.number
+Disease OR Group
+
+Slight editing in 
