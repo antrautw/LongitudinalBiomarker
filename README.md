@@ -14,4 +14,5 @@ subject.id (unique per subject identifier)
 FirstVLast (contains First, Last, or NA) OR visit.number
 Disease OR Group
 
-Slight editing in 
+Slight editing in: 
+<img width="1960" height="697" alt="image" src="https://github.com/user-attachments/assets/be819e66-6b94-4bca-a7cb-a1e54a83bfbf" />
